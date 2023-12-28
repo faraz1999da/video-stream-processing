@@ -25,8 +25,8 @@ This Storm topology processes video frames using Apache Storm, a distributed rea
 ### Components
 
 - **ImageSpout:** Reads video files, extracts frames, and performs initial image processing.
-- **ImageProcessingBolt:** Applies image processing tasks, such as blurring, to frames in parallel.
-- **ImageSharpeningBolt:** Applies image sharpening tasks to frames in parallel.
+- **GaussianBolt:** Applies image Gaussian blur filter to frames in parallel.
+- **SharpeningBolt:** Applies image sharpening filter to frames in parallel.
 - **AggregationBolt:** Aggregates blurred and sharpened frames, creating a final set of processed frames.
 
 
