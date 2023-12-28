@@ -43,7 +43,7 @@ Please install these tooll and libraries before running the project:
 ### Installation
 1. Intall the tools and libraries mentioned in the [Requirements](#requirements) section.
 2. Clone the Repository
-3. Go to './PE/src/'
+3. Go to './[video-stream-processing or any other name that you have chosen for the main project folder]/PE/src/'
 4. Compile and run ImageProcessingTopology.java.
 5. Have fun with It😊😊😊.
 
