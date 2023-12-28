@@ -14,7 +14,7 @@ This Storm topology processes video frames using Apache Storm, a distributed rea
   - [Installation](#installation)
 
 ## Overview
-[Image Processing Toploogy](diagrams/Topology.svg)
+![Image Processing Toploogy](diagrams/Topology.svg)
 
 ### Key Features
 
