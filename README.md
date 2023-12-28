@@ -41,7 +41,7 @@ Please install these tooll and libraries before running the project:
 - [OpenCV](https://opencv.org/) installed.(The version I have used is 4.8.0 but any other version works fine👌.)
 
 ### Installation
-1. Intall the tools and libraries mentioned in the [Requirements](#requirements) section.
+1. Install the tools and libraries mentioned in the [Requirements](#requirements) section.
 2. Clone the Repository
 3. Go to './[video-stream-processing or any other name that you have chosen for the main project folder]/PE/src/'
 4. Compile and run ImageProcessingTopology.java.
